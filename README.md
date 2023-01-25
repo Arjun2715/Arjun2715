@@ -37,4 +37,4 @@ Feel free to check out my GitHub repositories for more projects and contribution
 You can connect with me on [LinkedIn](https://www.linkedin.com/in/arjunjot-singh-3512561a0/) or [Discord](Arjun#9663). Feel free to reach out if you have any questions, collaborations, or just want to say hi!
 
 
-![git](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={Arjun2715})
+![git](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Arjun2715)
