@@ -8,18 +8,18 @@ Hi there! I'm Arjunjot Singh, a [Your Profession/Role] based in Barcelona. I'm p
 
 ## 🧰 Skills and Technologies
 
-- Programming Languages:  ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
                           ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
                           ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
                           ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-- Frameworks and Libraries: ![laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
  
 - Tools and Technologies: [List of Tools/Technologies]
 
-- Databases:  ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+ ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-- Other: ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+ ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
             ![VB](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white) 
             ![VB]()
 
@@ -39,5 +39,9 @@ You can connect with me on [LinkedIn](https://www.linkedin.com/in/arjunjot-singh
 ## 📈 Stats
 
 ![git](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Arjun2715)
+
+![git](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arjun2715)
+
 ![git](https://github-readme-streak-stats.herokuapp.com/?user=Arjun2715)
+
 ![git](https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun2715)
