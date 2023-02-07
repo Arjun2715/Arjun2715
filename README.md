@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile! 👋
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[YOUR_LINKEDIN_PROFILE_URL])](https://www.linkedin.com/in/arjunjot-singh-3512561a0/)
-
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=arjunjot-singh-3512561a0)]()
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[YOUR_LINKEDIN_PROFILE_URL])]()
 ## About Me
 
 Hi there! I'm Arjunjot Singh, a [Your Profession/Role] based in Barcelona. I'm passionate about [Your Interests/Expertise]. This is my GitHub profile, where you can find some of my projects, contributions, and explorations. Feel free to explore and get in touch!
