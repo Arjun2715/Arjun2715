@@ -13,7 +13,7 @@ Hi there! I'm Arjunjot Singh, a [Your Profession/Role] based in Barcelona. I'm p
 [![vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://github.com/Arjun2715)
 [![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://github.com/Arjun2715)
 [![vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)](https://github.com/Arjun2715)
-- Tools and Technologies: [List of Tools/Technologies] 
+- Tools and Technologies:
 [![laravel](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)](https://github.com/Arjun2715)
 [![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](https://github.com/Arjun2715)
 [![composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=Composer&logoColor=white)](https://github.com/Arjun2715)
@@ -30,6 +30,6 @@ You can connect with me on [LinkedIn](https://www.linkedin.com/in/arjunjot-singh
 [![git](https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun2715)](https://github.com/Arjun2715)
 [![git](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Arjun2715)](https://github.com/Arjun2715)
 [![git](https://github-readme-streak-stats.herokuapp.com/?user=Arjun2715)](https://github.com/Arjun2715)
-[![git](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arjun2715&theme=2077)](https://github.com/Arjun2715)
+[![git](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arjun2715&theme=github_dark)](https://github.com/Arjun2715)
 
 [![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FArjun27151212%2Fhit-counter)](https://github.com/Arjun2715)
