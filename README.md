@@ -1,28 +1,40 @@
 # Welcome to My GitHub Profile! 👋
 ## About Me
-
-Hi there! I'm Arjunjot Singh, a [Your Profession/Role] based in Barcelona. I'm passionate about [Your Interests/Expertise]. This is my GitHub profile, where you can find some of my projects, contributions, and explorations. Feel free to explore and get in touch!
+Hi there! I'm Arjunjot Singh, i'm a Full-Stack Developer based in Barcelona. This is my GitHub profile, where you can find some of my projects, contributions, and explorations. Feel free to explore and get in touch!
 ## 🧰 Skills and Technologies
 - Programming Languages: 
+<p align="center"></p>
+<p align="center">
+
 [![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/Arjun2715)
 [![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/Arjun2715)
 [![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/Arjun2715) 
 [![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Arjun2715)
+</p>
 - Frameworks and Libraries: 
+<p align="center">
+
 [![laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://github.com/Arjun2715)
 [![vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://github.com/Arjun2715)
 [![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://github.com/Arjun2715)
-[![vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)](https://github.com/Arjun2715)
+[![vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)](https://github.com/Arjun2715)</p>
 - Tools and Technologies:
+<p align="center">
+
 [![laravel](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)](https://github.com/Arjun2715)
 [![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](https://github.com/Arjun2715)
-[![composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=Composer&logoColor=white)](https://github.com/Arjun2715)
+[![composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=Composer&logoColor=white)](https://github.com/Arjun2715)</p>
 - Databases:
-[![sql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/Arjun2715)
+<p align="center">
+
+[![sql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/Arjun2715)</p>
 - Other:
+<p align="center">
+
 [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://github.com/Arjun2715)
 [![VB](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)](https://github.com/Arjun2715)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/Arjun2715)
+</p>
 ## 📫 How to Reach Me
 You can connect with me on [LinkedIn](https://www.linkedin.com/in/arjunjot-singh-3512561a0/) or Discord: Arjun#9663. Feel free to reach out if you have any questions, collaborations, or just want to say hi!
 
