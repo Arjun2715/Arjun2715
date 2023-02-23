@@ -17,17 +17,14 @@ Hi there! I'm Arjun, i'm a Full-Stack Developer based in Barcelona. This is my G
 [![VB](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)](https://github.com/Arjun2715)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/Arjun2715)
 [![Linux](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://github.com/Arjun2715)
-
 ## 📫 How to Reach Me
 You can connect with me on [LinkedIn](https://www.linkedin.com/in/arjunjot-singh-3512561a0/) or Discord: Arjun#9663. Feel free to reach out if you have any questions, collaborations, or just want to say hi!
-
 ## 📈 Stats
 <!-- [![git](https://github-readme-streak-stats.herokuapp.com/?user=Arjun2715&theme=github_dark)](https://github.com/Arjun2715)
 [![git](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Arjun2715&theme=github_dark)](https://github.com/Arjun2715)
 [![git](https://github-profile-trophy.vercel.app/?username=Arjun2715&theme=github_dark)](https://github.com/Arjun2715)
 [![git](https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun2715&theme=github_dark)](https://github.com/Arjun2715)
-
  -->
-[![git](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arjun2715&theme=github_dark)](https://github.com/Arjun2715)
+[![git](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arjun2715&theme=github_dark)](https://github.com/Arjun2715)[![git](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Arjun2715&theme=github_dark)](https://github.com/Arjun2715)[![git](https://github-profile-trophy.vercel.app/?username=Arjun2715&theme=github_dark)](https://github.com/Arjun2715)
 
 [![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FArjun27151212%2Fhit-counter)](https://github.com/Arjun2715)
