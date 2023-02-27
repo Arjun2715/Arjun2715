@@ -17,6 +17,8 @@ Hi there! I'm Arjun, i'm a Full-Stack Developer based in Barcelona. This is my G
 [![VB](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)](https://github.com/Arjun2715)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/Arjun2715)
 [![Linux](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://github.com/Arjun2715)
+
+![Metrics](https://metrics.lecoq.io/Arjun2715?template=classic&languages=1&code=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&code=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&config.timezone=Europe%2FParis)
 ## 📫 How to Reach Me
 You can connect with me on [LinkedIn](https://www.linkedin.com/in/arjunjot-singh-3512561a0/) or Discord: Arjun#9663. Feel free to reach out if you have any questions, collaborations, or just want to say hi!
 ## 📈 Stats
@@ -25,8 +27,7 @@ You can connect with me on [LinkedIn](https://www.linkedin.com/in/arjunjot-singh
 [![git](https://github-profile-trophy.vercel.app/?username=Arjun2715&theme=github_dark)](https://github.com/Arjun2715)
 [![git](https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun2715&theme=github_dark)](https://github.com/Arjun2715)
  -->
- [![git](https://github-readme-activity-graph.cyclic.app/graph?username=Arjun2715&theme=github_dark)]()
-[![git](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arjun2715&theme=github_dark)](https://github.com/Arjun2715)[![git](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Arjun2715&theme=github_dark)](https://github.com/Arjun2715)[![git](https://github-profile-trophy.vercel.app/?username=Arjun2715&theme=github_dark)](https://github.com/Arjun2715)
+[![git](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arjun2715&theme=github_dark)](https://github.com/Arjun2715)
 
 - name: Full-year calendar
   uses: lowlighter/metrics@latest
@@ -36,5 +37,5 @@ You can connect with me on [LinkedIn](https://www.linkedin.com/in/arjunjot-singh
     base: ""
     plugin_isocalendar: yes
     plugin_isocalendar_duration: full-year
-    
+
 [![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FArjun27151212%2Fhit-counter)](https://github.com/Arjun2715)
