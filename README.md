@@ -4,12 +4,12 @@
 
 ## About Me
 
-Hi there! I'm [Arjunjot Singh], a [Your Profession/Role] based in [Your Location]. I'm passionate about [Your Interests/Expertise]. This is my GitHub profile, where you can find some of my projects, contributions, and explorations. Feel free to explore and get in touch!
+Hi there! I'm Arjunjot Singh, a [Your Profession/Role] based in Barcelona. I'm passionate about [Your Interests/Expertise]. This is my GitHub profile, where you can find some of my projects, contributions, and explorations. Feel free to explore and get in touch!
 
 ## 🧰 Skills and Technologies
 
-- Programming Languages: [List of Languages]
-- Frameworks and Libraries: [List of Frameworks/Libraries]
+- Programming Languages: https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+- Frameworks and Libraries: (https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 - Tools and Technologies: [List of Tools/Technologies]
 - Databases: [List of Databases]
 - Other: [Any Other Relevant Skills]
