@@ -29,4 +29,4 @@ You can connect with me on [LinkedIn](https://www.linkedin.com/in/arjunjot-singh
 
 -->
 
-![](https://komarev.com/ghpvc/?username=Arjun2715&color=green)
+![views](https://komarev.com/ghpvc/?username=Arjun2715&color=green)
