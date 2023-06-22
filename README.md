@@ -17,6 +17,8 @@ Hi there! I'm Arjun, i'm a Full-Stack Developer based in Barcelona. This is my G
 [![VB](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)](https://github.com/Arjun2715)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/Arjun2715)
 [![Linux](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://github.com/Arjun2715)
+
+
 You can connect with me on [LinkedIn](https://www.linkedin.com/in/arjunjot-singh-3512561a0/) or Discord: Arjun#9663. Feel free to reach out if you have any questions, collaborations, or just want to say hi!
 
 
