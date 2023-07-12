@@ -21,6 +21,24 @@ Hi there! I'm Arjun, i'm a Full-Stack Developer based in Barcelona. This is my G
 
 You can connect with me on [LinkedIn](https://www.linkedin.com/in/arjunjot-singh-3512561a0/) or Discord: Arjun#9663. Feel free to reach out if you have any questions, collaborations, or just want to say hi!
 
+      <style>
+        .libutton {
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          padding: 7px;
+          text-align: center;
+          outline: none;
+          text-decoration: none !important;
+          color: #ffffff !important;
+          width: 200px;
+          height: 32px;
+          border-radius: 16px;
+          background-color: #0A66C2;
+          font-family: "SF Pro Text", Helvetica, sans-serif;
+        }
+      </style>
+<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=arjunjot-singh-3512561a0" target="_blank">Follow on LinkedIn</a>
 
 [![Metrics](https://metrics.lecoq.io/Arjun2715?template=classic&isocalendar=1&lines=1&achievements=1&code=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&achievements=false&achievements.threshold=B&achievements.secrets=true&achievements.display=compact&achievements.limit=0&code=false&code.lines=4&code.load=400&code.days=3&code.visibility=public&config.timezone=Europe%2FParis&config.display=large)](https://github.com/Arjun2715)
 <!--## 📈 Stats
