@@ -25,12 +25,12 @@ You can connect with me on [LinkedIn](https://www.linkedin.com/in/arjunjot-singh
 
 #📈 Stats
 
-[![git](https://github-readme-streak-stats.herokuapp.com/?user=Arjun2715&theme=github_dark)](https://github.com/Arjun2715)
+<!--[![git](https://github-readme-streak-stats.herokuapp.com/?user=Arjun2715&theme=github_dark)](https://github.com/Arjun2715) -->
 [![git](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Arjun2715&theme=github_dark)](https://github.com/Arjun2715)
 
 <!-- [![git](https://github-profile-trophy.vercel.app/?username=Arjun2715&theme=github_dark)](https://github.com/Arjun2715)-->
 
-[![git](https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun2715&theme=github_dark)](https://github.com/Arjun2715) 
+<!--[![git](https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun2715&theme=github_dark)](https://github.com/Arjun2715) -->
 [![git](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arjun2715&theme=github_dark)](https://github.com/Arjun2715)
 
 
