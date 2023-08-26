@@ -2,6 +2,7 @@
 Hi there! I'm Arjun, I'm a Full-Stack Developer based in Barcelona. This is my GitHub profile, where you can find some of my projects, contributions, and explorations. Feel free to explore and get in touch!
 ## 🧰 Skills and Technologies
 [![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/Arjun2715)
+
 [![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/Arjun2715)
 [![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/Arjun2715) 
 [![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Arjun2715)
@@ -32,6 +33,6 @@ You can connect with me on [LinkedIn](https://www.linkedin.com/in/arjunjot-singh
 
 <!--[![git](https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun2715&theme=github_dark)](https://github.com/Arjun2715) -->
 [![git](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arjun2715&theme=github_dark)](https://github.com/Arjun2715)
-
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Arjun2715)](https://github.com/Arjun2715)
 
 ![views](https://komarev.com/ghpvc/?username=Arjun2715&color=green)
