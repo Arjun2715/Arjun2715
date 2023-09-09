@@ -2,6 +2,8 @@
 Hi there! I'm Arjun, I'm a Junior Developer based in Barcelona. This is my GitHub profile, where you can find some of my projects, contributions, and explorations. Feel free to explore and get in touch!
 ## 🧰 Skills and Technologies
 [![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/Arjun2715)
+<p align="center">
+// Your content
 
 [![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/Arjun2715)
 [![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/Arjun2715) 
@@ -18,7 +20,7 @@ Hi there! I'm Arjun, I'm a Junior Developer based in Barcelona. This is my GitHu
 [![VB](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)](https://github.com/Arjun2715)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/Arjun2715)
 [![Linux](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://github.com/Arjun2715)
-
+</p>
 
 You can connect with me on [LinkedIn](https://www.linkedin.com/in/arjunjot-singh-3512561a0/) or via Discord: Arjun#9663. Feel free to reach out if you have any questions, or collaborations, or just want to say hi!
 <!--
