@@ -27,9 +27,9 @@ You can connect with me on [LinkedIn](https://www.linkedin.com/in/arjunjot-singh
 
 #📈 Stats
 
-![git](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Arjun2715&theme=github_dark)
-
 ![Arjun2715's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun2715&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+
+![git](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Arjun2715&theme=github_dark)
 
 ![Arjun2715's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arjun2715&theme=tokyonight&hide_border=false)
 <!--[![git](https://github-readme-streak-stats.herokuapp.com/?user=Arjun2715&theme=github_dark)](https://github.com/Arjun2715) -->
