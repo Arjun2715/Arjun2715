@@ -19,8 +19,8 @@ Hi there! I'm Arjun, I'm a Junior Developer based in Barcelona. This is my GitHu
 [![Linux](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://github.com/Arjun2715)
 
 You can connect with me on [LinkedIn](https://www.linkedin.com/in/arjunjot-singh-3512561a0/) or via Discord: Arjun#9663. Feel free to reach out if you have any questions, or collaborations, or just want to say hi!
-<!--
-[![Metrics](https://metrics.lecoq.io/Arjun2715?template=classic&isocalendar=1&lines=1&achievements=1&code=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&achievements=false&achievements.threshold=B&achievements.secrets=true&achievements.display=compact&achievements.limit=0&code=false&code.lines=4&code.load=400&code.days=3&code.visibility=public&config.timezone=Europe%2FParis&config.display=large)](https://github.com/Arjun2715)-->
+
+[![Metrics](https://metrics.lecoq.io/Arjun2715?template=classic&isocalendar=1&lines=1&achievements=1&code=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&achievements=false&achievements.threshold=B&achievements.secrets=true&achievements.display=compact&achievements.limit=0&code=false&code.lines=4&code.load=400&code.days=3&code.visibility=public&config.timezone=Europe%2FParis&config.display=large)](https://github.com/Arjun2715)
 
 ## 📈Stats
 ![Arjun2715's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun2715&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
@@ -31,7 +31,7 @@ You can connect with me on [LinkedIn](https://www.linkedin.com/in/arjunjot-singh
 <!--[![git](https://github-readme-streak-stats.herokuapp.com/?user=Arjun2715&theme=github_dark)](https://github.com/Arjun2715) -->
 
 <!-- [![git](https://github-profile-trophy.vercel.app/?username=Arjun2715&theme=github_dark)](https://github.com/Arjun2715)-->
-[![git](https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun2715&theme=github_dark)](https://github.com/Arjun2715) 
-<!--[![git](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arjun2715&theme=github_dark)](https://github.com/Arjun2715)-->
+<!--[![git](https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun2715&theme=github_dark)](https://github.com/Arjun2715) 
+[![git](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arjun2715&theme=github_dark)](https://github.com/Arjun2715)-->
 
 ![views](https://komarev.com/ghpvc/?username=Arjun2715&color=green)
