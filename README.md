@@ -31,11 +31,14 @@ You can connect with me on [LinkedIn](https://www.linkedin.com/in/arjunjot-singh
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Arjun2715)](https://github.com/Arjun2715)
 <!--[![git](https://github-readme-streak-stats.herokuapp.com/?user=Arjun2715&theme=github_dark)](https://github.com/Arjun2715) -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+<a href="https://github.com/Arjun2715">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun2715&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+<a href="https://github.com/Arjun2715">
+  <img height=200 align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Arjun2715&theme=github_dark" />
+</a>
+<a href="https://github.com/Arjun2715">
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Arjun2715&theme=tokyonight&hide_border=false" />
 </a>
 <!-- [![git](https://github-profile-trophy.vercel.app/?username=Arjun2715&theme=github_dark)](https://github.com/Arjun2715)-->
 <!--[![git](https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun2715&theme=github_dark)](https://github.com/Arjun2715) 
