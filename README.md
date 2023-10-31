@@ -31,7 +31,12 @@ You can connect with me on [LinkedIn](https://www.linkedin.com/in/arjunjot-singh
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Arjun2715)](https://github.com/Arjun2715)
 <!--[![git](https://github-readme-streak-stats.herokuapp.com/?user=Arjun2715&theme=github_dark)](https://github.com/Arjun2715) -->
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
 <!-- [![git](https://github-profile-trophy.vercel.app/?username=Arjun2715&theme=github_dark)](https://github.com/Arjun2715)-->
 <!--[![git](https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun2715&theme=github_dark)](https://github.com/Arjun2715) 
 [![git](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arjun2715&theme=github_dark)](https://github.com/Arjun2715)-->
