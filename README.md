@@ -27,7 +27,7 @@ You can connect with me on [LinkedIn](https://www.linkedin.com/in/arjunjot-singh
 
 ![git](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Arjun2715&theme=github_dark)
 
-![Arjun2715's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arjun2715&theme=tokyonight&hide_border=false) [![wakatime](https://wakatime.com/badge/user/018b84fc-1805-4419-a27d-a5484b979e0e.svg)](https://wakatime.com/@018b84fc-1805-4419-a27d-a5484b979e0e)
+![Arjun2715's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arjun2715&theme=tokyonight&hide_border=false) 
 <!--
 [![git](https://github-readme-streak-stats.herokuapp.com/?user=Arjun2715&theme=github_dark)](https://github.com/Arjun2715) 
 
@@ -47,4 +47,4 @@ You can connect with me on [LinkedIn](https://www.linkedin.com/in/arjunjot-singh
 <!--[![git](https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun2715&theme=github_dark)](https://github.com/Arjun2715) 
 [![git](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arjun2715&theme=github_dark)](https://github.com/Arjun2715)-->
 
-![views](https://komarev.com/ghpvc/?username=Arjun2715&color=green)
+![views](https://komarev.com/ghpvc/?username=Arjun2715&color=green) [![wakatime](https://wakatime.com/badge/user/018b84fc-1805-4419-a27d-a5484b979e0e.svg)](https://wakatime.com/@018b84fc-1805-4419-a27d-a5484b979e0e)
