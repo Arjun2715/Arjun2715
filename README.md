@@ -30,10 +30,12 @@ You can connect with me on [LinkedIn](https://www.linkedin.com/in/arjunjot-singh
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arjun2715&hide_border=false"/>
    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Arjun2715"/>
    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arjun2715"/>
-   <img src="https://komarev.com/ghpvc/?username=Arjun2715&color=green"/>
-   <img src="https://wakatime.com/badge/user/018b84fc-1805-4419-a27d-a5484b979e0e.svg"/>
+   
  </p>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Arjun2715&color=green"/>
+   <img src="https://wakatime.com/badge/user/018b84fc-1805-4419-a27d-a5484b979e0e.svg"/>
+</p>
 <!-- 
 <img src=""/>
 ![Arjun2715's Top Languages]() 
@@ -43,7 +45,7 @@ You can connect with me on [LinkedIn](https://www.linkedin.com/in/arjunjot-singh
 [![git](&theme=github_dark)](https://github.com/Arjun2715) 
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arjun2715"/>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun2715"/> 
-
+<!--
 <a href="https://github.com/Arjun2715">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun2715&theme=tokyonight&show_icons=true&hide_border=false&layout=compact />
 </a>
@@ -52,9 +54,9 @@ You can connect with me on [LinkedIn](https://www.linkedin.com/in/arjunjot-singh
 </a>
 <a href="https://github.com/Arjun2715">
   <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Arjun2715&theme=tokyonight&hide_border=false />
-</a>-->
+</a>
 ![views](https://komarev.com/ghpvc/?username=Arjun2715&color=green) [![wakatime](https://wakatime.com/badge/user/018b84fc-1805-4419-a27d-a5484b979e0e.svg)](https://wakatime.com/@018b84fc-1805-4419-a27d-a5484b979e0e)
-
+-->
 
   
 
