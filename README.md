@@ -23,6 +23,7 @@ You can connect with me on [LinkedIn](https://www.linkedin.com/in/arjunjot-singh
 [![Metrics](https://metrics.lecoq.io/Arjun2715?template=classic&isocalendar=1&lines=1&achievements=1&code=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&achievements=false&achievements.threshold=B&achievements.secrets=true&achievements.display=compact&achievements.limit=0&code=false&code.lines=4&code.load=400&code.days=3&code.visibility=public&config.timezone=Europe%2FParis&config.display=large)](https://github.com/Arjun2715)
 <!---->
 ## 📈Stats
+<p align="center">
 ![Arjun2715's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun2715&show_icons=true&hide_border=false) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun2715&hide_progress=true) 
 ![Arjun2715's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arjun2715&hide_border=false)
@@ -39,6 +40,11 @@ You can connect with me on [LinkedIn](https://www.linkedin.com/in/arjunjot-singh
 <a href="https://github.com/Arjun2715">
   <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Arjun2715&theme=tokyonight&hide_border=false />
 </a>-->
+![views](https://komarev.com/ghpvc/?username=Arjun2715&color=green) [![wakatime](https://wakatime.com/badge/user/018b84fc-1805-4419-a27d-a5484b979e0e.svg)](https://wakatime.com/@018b84fc-1805-4419-a27d-a5484b979e0e)
+
+
+  
+</p>
 
 
 
@@ -46,4 +52,3 @@ You can connect with me on [LinkedIn](https://www.linkedin.com/in/arjunjot-singh
 <!--[![git](https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun2715&theme=github_dark)](https://github.com/Arjun2715) 
 [![git](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arjun2715&theme=github_dark)](https://github.com/Arjun2715)-->
 
-![views](https://komarev.com/ghpvc/?username=Arjun2715&color=green) [![wakatime](https://wakatime.com/badge/user/018b84fc-1805-4419-a27d-a5484b979e0e.svg)](https://wakatime.com/@018b84fc-1805-4419-a27d-a5484b979e0e)
