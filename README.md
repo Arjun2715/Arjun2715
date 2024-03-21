@@ -25,11 +25,17 @@ You can connect with me on [LinkedIn](https://www.linkedin.com/in/arjunjot-singh
 ## 📈Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun2715&show_icons=true&hide_border=false"/>
+
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun2715&hide_progress=true"/>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arjun2715&hide_border=false"/>
+   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Arjun2715)](https://github.com/arjun2715/github-readme-stats"/>
+ </p>
+
+<!--  <img src=""/>
 ![Arjun2715's Top Languages]() 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun2715&hide_progress=true) 
-![Arjun2715's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arjun2715&hide_border=false)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Arjun2715)](https://github.com/arjun2715/github-readme-stats) 
-<!--
+![Top Langs]() 
+![Arjun2715's Streak]()
+[![Harlok's WakaTime stats]() 
 [![git](https://github-readme-streak-stats.herokuapp.com/?user=Arjun2715&theme=github_dark)](https://github.com/Arjun2715) 
 
 <a href="https://github.com/Arjun2715">
@@ -45,7 +51,6 @@ You can connect with me on [LinkedIn](https://www.linkedin.com/in/arjunjot-singh
 
 
   
-</p>
 
 
 
