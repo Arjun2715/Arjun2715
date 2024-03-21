@@ -30,11 +30,12 @@ You can connect with me on [LinkedIn](https://www.linkedin.com/in/arjunjot-singh
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arjun2715&hide_border=false"/>
    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Arjun2715"/>
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arjun2715"/>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun2715"/>
    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arjun2715"/>
  </p>
 
-<!--  <img src=""/>
+<!-- 
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun2715"/>
+<img src=""/>
 ![Arjun2715's Top Languages]() 
 ![Top Langs]() 
 ![Arjun2715's Streak]()
