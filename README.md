@@ -24,7 +24,8 @@ You can connect with me on [LinkedIn](https://www.linkedin.com/in/arjunjot-singh
 <!---->
 ## 📈Stats
 <p align="center">
-![Arjun2715's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun2715&show_icons=true&hide_border=false) 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun2715&show_icons=true&hide_border=false"/>
+![Arjun2715's Top Languages]() 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun2715&hide_progress=true) 
 ![Arjun2715's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arjun2715&hide_border=false)
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Arjun2715)](https://github.com/arjun2715/github-readme-stats) 
