@@ -52,14 +52,7 @@ You can connect with me on [LinkedIn](https://www.linkedin.com/in/arjunjot-singh
 <p align="center">
    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arjun2715"/>
 </p>
-    
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Arjun2715"/> 
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arjun2715"/> 
-</p>
-
+     
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Arjun2715&color=green"/>
    <img src="https://wakatime.com/badge/user/018b84fc-1805-4419-a27d-a5484b979e0e.svg"/>
@@ -75,6 +68,12 @@ You can connect with me on [LinkedIn](https://www.linkedin.com/in/arjunjot-singh
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arjun2715"/>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun2715"/> 
 <!--
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Arjun2715"/> 
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arjun2715"/> 
+</p>
 <a href="https://github.com/Arjun2715">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun2715&theme=tokyonight&show_icons=true&hide_border=false&layout=compact />
 </a>
