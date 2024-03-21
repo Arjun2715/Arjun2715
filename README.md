@@ -28,7 +28,7 @@ You can connect with me on [LinkedIn](https://www.linkedin.com/in/arjunjot-singh
 
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun2715&hide_progress=true"/>
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arjun2715&hide_border=false"/>
-   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Arjun2715)](https://github.com/arjun2715/github-readme-stats"/>
+   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Arjun2715"/>
  </p>
 
 <!--  <img src=""/>
