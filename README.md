@@ -5,8 +5,7 @@ Hi there! I'm Arjun, I'm a Junior Developer based in Barcelona. This is my GitHu
 
 </p>
 
-## 🧰 Skills and Technologies
-
+## 🧰 Skills and Technologies 
 <p align="center">
   
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -25,34 +24,27 @@ Hi there! I'm Arjun, I'm a Junior Developer based in Barcelona. This is my GitHu
   <img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
-
+</p> 
 <p align="center">
 You can connect with me on [LinkedIn](https://www.linkedin.com/in/arjunjot-singh-3512561a0/) or via Email: arjunjot2002@gmail.com. Feel free to reach out if you have any questions, or collaborations, or just want to say hi!
-</p>
-
-
+</p> 
 ![Metrics](https://metrics.lecoq.io/Arjun2715?template=classic&base.community=0&base.repositories=0&isocalendar=1&languages=1&lines=1&habits=1&stock=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&lines.delay=0&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&stock=false&stock.symbol=NVDA&stock.duration=1mo&stock.interval=1m&config.timezone=Europe%2FMadrid)
 <!--[![Metrics](https://metrics.lecoq.io/Arjun2715?template=classic&isocalendar=1&lines=1&achievements=1&code=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&achievements=false&achievements.threshold=B&achievements.secrets=true&achievements.display=compact&achievements.limit=0&code=false&code.lines=4&code.load=400&code.days=3&code.visibility=public&config.timezone=Europe%2FParis&config.display=large)](https://github.com/Arjun2715)-->
-<p align="center">
 ## 📈Stats
+<p align="center"> 
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun2715&show_icons=true&hide_border=false"/>
-</p>
-
+</p> 
 <p align="center">
 
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arjun2715&hide_border=false"/>
-   </p>
-   
+   </p> 
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Arjun2715"/>
-</p>
-
+</p> 
 <p align="center">
    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arjun2715"/>
-</p>
-     
+</p> 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Arjun2715&color=green"/>
    <img src="https://wakatime.com/badge/user/018b84fc-1805-4419-a27d-a5484b979e0e.svg"/>
