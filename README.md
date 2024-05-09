@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile! 👋
 
 <p align="center"> 
-Hi there! I'm Arjun, I'm a Junior Developer based in Barcelona. This is my GitHub profile, where you can find some of my projects, contributions, and explorations. Feel free to explore and get in touch!
+Hi there! I'm Arjun, I'm a software developer based in Barcelona. This is my GitHub profile, where you can find some of my projects, contributions, and explorations. Feel free to explore and get in touch!
 
 </p>
 
