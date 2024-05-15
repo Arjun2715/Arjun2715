@@ -26,14 +26,13 @@ Hi there! I'm Arjun, I'm a software developer based in Barcelona. This is my Git
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p> 
 <p align="center">
-  You can connect with me on 
+  You can connect with me on <br/>
 <a href="https://www.linkedin.com/in/arjunjot-singh-3512561a0/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  or via Email: 
 <a href="mailto:arjunjot2002@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
+  </a><br/>
  Feel free to reach out if you have any questions, or collaborations, or just want to say hi!
 </p> 
 
