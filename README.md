@@ -49,6 +49,7 @@ Hi there! I'm Arjun, I'm a software developer based in Barcelona. This is my Git
 
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arjun2715&hide_border=false"/>
    </p> 
+   <figure><embed src="https://wakatime.com/share/@Arjun2715/8a45766d-4262-4c1d-8d25-ede258416007.svg"></embed></figure>
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Arjun2715"/>
 </p> 
@@ -59,6 +60,7 @@ Hi there! I'm Arjun, I'm a software developer based in Barcelona. This is my Git
   <img src="https://komarev.com/ghpvc/?username=Arjun2715&color=green"/>
    <img src="https://wakatime.com/badge/user/018b84fc-1805-4419-a27d-a5484b979e0e.svg"/>
 </p>
+
 <!-- 
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun2715&hide_progress=true"/>
 <img src=""/>
