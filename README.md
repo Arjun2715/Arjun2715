@@ -54,9 +54,9 @@ Hi there! I'm Arjun, I'm a software developer based in Barcelona. This is my Git
 
 
 ## 📈Stats Wakatime
-<p align="center">
+<!--<p align="center">
   <img src="https://wakatime.com/share/@Arjun2715/0099f8e0-94b2-4a36-a8b8-ebd860b090bf.png" />
-</p>
+</p>-->
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Arjun2715"/>
 </p> 
