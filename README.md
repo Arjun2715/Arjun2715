@@ -49,9 +49,10 @@ Hi there! I'm Arjun, I'm a software developer based in Barcelona. This is my Git
 
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arjun2715&hide_border=false"/>
    </p> 
-   
-   ![WakaTime](https://wakatime.com/badge/github/user/repo.svg)
+   <p align="center">
 
+   <img src="https://wakatime.com/badge/github/user/repo.svg"/>
+   </p>  
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Arjun2715"/>
 </p> 
