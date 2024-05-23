@@ -63,7 +63,9 @@ Hi there! I'm Arjun, I'm a software developer based in Barcelona. This is my Git
 
 
 <p align="center">
+  <a href="https://wakatime.com/@Arjun2715">
     <img src="https://komarev.com/ghpvc/?username=Arjun2715&color=green"/>
+  </a>
    <img src="https://wakatime.com/badge/user/018b84fc-1805-4419-a27d-a5484b979e0e.svg"/>
 </p>
 
