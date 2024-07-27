@@ -8,7 +8,8 @@ Hi there! I'm Arjun, I'm a software developer based in Barcelona. This is my Git
 ## 🧰 Skills and Technologies 
 <p align="center">
   
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <
+img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -40,7 +41,7 @@ Hi there! I'm Arjun, I'm a software developer based in Barcelona. This is my Git
 ![Metrics](https://metrics.lecoq.io/Arjun2715?template=classic&base.community=0&base.repositories=0&isocalendar=1&languages=1&lines=1&habits=1&stock=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&lines.delay=0&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&stock=false&stock.symbol=NVDA&stock.duration=1mo&stock.interval=1m&config.timezone=Europe%2FMadrid)
 -->
 <!--[![Metrics](https://metrics.lecoq.io/Arjun2715?template=classic&isocalendar=1&lines=1&achievements=1&code=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&achievements=false&achievements.threshold=B&achievements.secrets=true&achievements.display=compact&achievements.limit=0&code=false&code.lines=4&code.load=400&code.days=3&code.visibility=public&config.timezone=Europe%2FParis&config.display=large)](https://github.com/Arjun2715)-->
-## 📈Stats
+<!--## 📈Stats
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun2715&show_icons=true&hide_border=false"/>
 </p> 
